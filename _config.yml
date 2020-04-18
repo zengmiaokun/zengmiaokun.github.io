@@ -10,6 +10,8 @@ keywords:
 author: MangoPro
 language: zh-CN
 timezone: 'Asia/Shanghai'
+favicon: /img/favicon.ico
+
 
 #Deploy
 deploy:
