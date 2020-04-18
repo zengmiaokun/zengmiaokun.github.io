@@ -14,12 +14,12 @@ jobs:
     steps:
     # check it to your workflow can access it
     # from: https://github.com/actions/checkout
-    - name: Checkout Repository hexo branch
-      uses: actions/checkout@hexo
+    - name: Checkout Repository master branch
+      uses: actions/checkout@master
       
     # from: https://github.com/actions/setup-node  
     - name: Setup Node.js 10.x 
-      uses: actions/setup-node@hexo
+      uses: actions/setup-node@master
       with:
         node-version: "10.x"
     
