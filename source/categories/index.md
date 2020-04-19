@@ -1,7 +1,6 @@
 ---
-title: categories
-date: 2020-04-18 22:41:57
-type: "categories"
-layout: "category"
-comments: false
+layout: category
+index: true
+title: 所有分类
+sidebar: [blogger, tagcloud]
 ---

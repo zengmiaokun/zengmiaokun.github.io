@@ -1,7 +1,6 @@
 ---
-title: tags
-date: 2020-04-18 22:42:09
-type: "tags"
-layout: "tag"
-comments: false
+layout: tag
+index: true
+title: 所有标签
+sidebar: [blogger, category]
 ---
